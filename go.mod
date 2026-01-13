@@ -5,8 +5,8 @@ go 1.23.0
 toolchain go1.24.4
 
 require (
-	github.com/resolute-sh/resolute v0.0.0
-	github.com/resolute-sh/resolute-transform v0.0.0
+	github.com/resolute-sh/resolute v0.1.0-alpha
+	github.com/resolute-sh/resolute-transform v0.1.0-alpha
 	go.temporal.io/sdk v1.29.1
 )
 
@@ -44,9 +44,4 @@ require (
 	google.golang.org/grpc v1.65.0 // indirect
 	google.golang.org/protobuf v1.36.8 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-)
-
-replace (
-	github.com/resolute-sh/resolute => ../resolute
-	github.com/resolute-sh/resolute-transform => ../resolute-transform
 )

@@ -70,6 +70,10 @@ github.com/prometheus/common v0.66.1 h1:h5E0h5/Y8niHc5DlaLlWLArTQI7tMrsfQjHV+d9Z
 github.com/prometheus/common v0.66.1/go.mod h1:gcaUsgf3KfRSwHY4dIMXLPV0K/Wg1oZ8+SbZk/HH/dA=
 github.com/prometheus/procfs v0.16.1 h1:hZ15bTNuirocR6u0JZ6BAHHmwS1p8B4P6MRqxtzMyRg=
 github.com/prometheus/procfs v0.16.1/go.mod h1:teAbpZRB1iIAJYREa1LsoWUXykVXA1KlTmWl8x/U+Is=
+github.com/resolute-sh/resolute v0.1.0-alpha h1:R2unIJpB09Ce3DIFs3k3GbkFtD0FdWk9z2e9RytrzKU=
+github.com/resolute-sh/resolute v0.1.0-alpha/go.mod h1:IGFjlkKILictQePq/eOuLoK9OYcAfBgYpIPYmWD/lg4=
+github.com/resolute-sh/resolute-transform v0.1.0-alpha h1:WzE8WoShzksKdkCTlXAWeF9dpFidmDQLP2EBzcVQjYA=
+github.com/resolute-sh/resolute-transform v0.1.0-alpha/go.mod h1:RWkg2knyMEbICFxJtMz4WuUIgBeFCVEWqLnYklyBA0w=
 github.com/robfig/cron v1.2.0 h1:ZjScXvvxeQ63Dbyxy76Fj3AT3Ut0aKsyd2/tl3DTMuQ=
 github.com/robfig/cron v1.2.0/go.mod h1:JGuDeoQd7Z6yL4zQhZ3OPEVHB7fL6Ka6skscFHfmt2k=
 github.com/rogpeppe/go-internal v1.11.0 h1:cWPaGQEPrBb5/AsnsZesgZZ9yb1OQ+GOISoDNXVBh4M=
